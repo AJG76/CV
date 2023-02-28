@@ -1,0 +1,15 @@
+
+.letra{
+    font-family: 'Roboto', sans-serif;
+}
+#contenido{
+    color:brown;
+}
+
+.leer{
+    opacity: 0.65;
+}
+
+.leer:hover{
+    opacity: 1;   
+}
